@@ -1,3 +1,7 @@
-pip install -r requirements.txt
+Below steps to be followed to stream data from file to kafka and then to persitant layer.
 
-python data-ingestion.py
+1. Install Python 3.9
+
+2. pip install -r requirements.txt
+
+2. python data-ingestion.py
