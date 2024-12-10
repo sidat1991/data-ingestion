@@ -1,0 +1,7 @@
+KAFKA_BROKERS = ["localhost:9092"]
+KAFKA_TOPIC_NAME = "cdc-events"
+OPEN_SEARCH_HOST = "localhost"
+OPEN_SEARCH_PORT = "9200"
+OPEN_SEARCH_USE_SSL = False
+OPEN_SEARCH_USE_CERT = False
+OPEN_SEARCH_INDEX = "cdc-events"
