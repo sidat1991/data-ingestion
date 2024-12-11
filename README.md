@@ -1,4 +1,4 @@
-Below steps to be followed to stream data from file to kafka and then to persitant layer.
+Below steps to be followed to stream data from file to kafka and then to persitent layer.
 
 1. Install Python 3.9
 
